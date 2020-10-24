@@ -2,7 +2,6 @@
 Get Out The Vote - A Platform to increase citizen participation in Nigeria's Electoral Process.
 
 ### Introducition 
-### This is a Proposal and a call for contributors & collaborators
 
 GOTVote's primary goal is to build a set of tools that enable as many Nigerians get involved in her political process as is technically possible.
 
@@ -81,4 +80,4 @@ With the subject line: "GOTVote volunteer request".
 Include your social (twitter) handles and area of interest.
 
 
-NOTE: This document is in its early stages and will change often.
+###### This is a Proposal and a call for contributors & collaborators. it is a growing document and will be updated frequently

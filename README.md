@@ -26,7 +26,7 @@ Some important aspect of the features will be the social nature coupled with **g
 
 
 
-### ROAD MAP
+## Road Map
 
 #### Phase One
 
@@ -41,7 +41,7 @@ Stage by stage Artwork/Visual Illustration to draw awareness from social platfor
 - Encourage them to run for electoral offices.
 
 
-## Phase Two
+#### Phase Two
 
 A portal that enable's the following
 
@@ -52,7 +52,7 @@ A portal that enable's the following
 5. Get them to acquire their voters credentials (card).
 
 
-## Phase Three
+#### Phase Three
 A mobile app that encourages people to:
 6. Get them out to vote in teams.
 7. Get them to publish the results.

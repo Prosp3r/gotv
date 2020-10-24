@@ -1,24 +1,28 @@
-Get Out The Vote - A Platform to increase youth participation in Nigeria's Electoral Process.
+# GOTVote
+Get Out The Vote - A Platform to increase citizen participation in Nigeria's Electoral Process.
+
+### Introducition 
+### This is a Proposal and a call for contributors & collaborators
+
+GOTVote's primary goal is to build a set of tools that enable as many Nigerians get involved in her political process as is technically possible.
+
+These tools will be designed and built around activities such as: 
+
++ Voter registeration 
++ Acquisition of voters cards 
++ Problem reporting where obstacles are thrown in their way with evidence gathering and easy means to share issues with appropriate Government agency with follow up features.
++ Getting out to vote
++ Independent reporting
++ Result tallying
++ Reward for participation
++ Inform others(other voters not online)
++ Nationwide polling unit verification.
++ Verify eligibility to run for office.
 
 
-This project is meant to get as many young Nigerians involved in her political process as is technically possible.
+Some of the most important features will be the social nature coupled with "gamelike" features aimed at driving adoption and dedicated usage.
 
-Registering and getting voters card and where they're prevented somehow, evidence and reporting to appropriate quarter with follow up.
-Add some social elements to the processes using peer pressure/encouragement to get these things done, even getting people out to vote.
-Our primary aim is eliminating those little pre-election barriers thrown in young people's way.
-
-To this end all features built will mirror the features listed below.
-
-1. Encourage people to signup
-2. Get them to add their contacts.
-3. Get them to run for electoral office.
-4. Get them to partake in voter’s registration.
-5. Get them to inform their contacts.
-6. Get the to acquire their voters credentials (card).
-7. Get the out to vote in teams.
-8. Get the to publish the results.
-9. Get them to secure the votes.
-
+---
 
 ## ROAD MAP
 

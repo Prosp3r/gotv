@@ -4,7 +4,7 @@ Short for Get Out The Vote - Is a set of tools to increase citizen participation
 ### Introducition 
 
 GOTV's primary goal is to build a set of tools that will enable as many Nigerians get involved in her political process as is technically possible.
-It will enable new group of political players organise their election related ground activities at very low cost.
+It aims to enable new groups of political players coordinate their election related ground activities at very low cost.
 
 
 These tools will be designed and built around activities such as: 

@@ -10,7 +10,8 @@ These tools will be designed and built around activities such as:
 
 + Voter registeration 
 + Acquisition of voters cards 
-+ Problem reporting where obstacles are thrown in their way with evidence gathering and easy means to share issues with appropriate Government agency with follow up features.
++ Issue reporting with evidence gathering coupled with easy ways to share issues with the appropriate Government agency. 
++ Follow up features for reoprted issues.
 + Getting out to vote
 + Independent reporting
 + Result tallying

@@ -42,7 +42,7 @@ To achieve the above stated goals, the proposed tools will be designed and built
 
 ###### Initial user data gather and voluteer sourcing
 
-1. A duolingo style app(web & Mobile) that scores participants on series of tailored questions.
+1. A [duolingo](https://www.duolingo.com/) style app(web & Mobile) that scores participants on series of tailored questions.
    + Scores are tallied based on activity and correct participation in tests like stackOverflow
    + Scores can be converted to real life rewards like airtime credits.
    + Scores are earned on referrals.

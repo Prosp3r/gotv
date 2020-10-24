@@ -1,5 +1,5 @@
-# GOTVote
-Get Out The Vote - A Platform to increase citizen participation in Nigeria's Electoral Process.
+# GOTV
+Get Out The Vote - Is a set of tools to increase citizen participation in Nigeria's Electoral Process.
 
 ### Introducition 
 

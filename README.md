@@ -1,7 +1,7 @@
 # GOTV
 
 ### Introducition 
-Short for _**Get Out The Vote**_ - Is a set of tools to increase citizen participation in Nigeria's Electoral Process.
+Short for _**G**et **O**ut **T**he **V**ote_ - Is a set of tools to increase citizen participation in Nigeria's Electoral Process.
 
 
 ### Goals

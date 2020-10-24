@@ -85,9 +85,7 @@ Include your social (twitter) handles and area of interest.
 
 
 
+## 
 
 ###### This is a Proposal and a call for contributors & collaborators. 
-
-
-
 **_A growing document. It will be updated frequently_**

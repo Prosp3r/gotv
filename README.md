@@ -2,6 +2,7 @@
 
 ### Introduction 
 Nigeria of 2020 has a high percentage youthful population consequently a lot of these members of society are new to the country's electoral process.
+
 Short for _**G**et **O**ut **T**he **V**ote_ - Is a set of tools designed to increase citizen participation in Nigeria's Electoral Process by enabling independent education, galvanizing and collaboration between groups.
 
 

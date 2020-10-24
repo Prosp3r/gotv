@@ -1,9 +1,9 @@
 # GOTV
-Get Out The Vote - Is a set of tools to increase citizen participation in Nigeria's Electoral Process.
+Short for Get Out The Vote - Is a set of tools to increase citizen participation in Nigeria's Electoral Process.
 
 ### Introducition 
 
-GOTVote's primary goal is to build a set of tools that enable as many Nigerians get involved in her political process as is technically possible.
+GOTV's primary goal is to build a set of tools that enable as many Nigerians get involved in her political process as is technically possible.
 
 These tools will be designed and built around activities such as: 
 

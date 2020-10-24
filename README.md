@@ -1,21 +1,27 @@
 # GOTV
 
-### Introducition 
-Short for _**G**et **O**ut **T**he **V**ote_ - Is a set of tools to increase citizen participation in Nigeria's Electoral Process.
+### Introduction 
+Nigeria of 2020 has a high percentage youthful population consequently a lot of these members of society are new to the country's electoral process.
+Short for _**G**et **O**ut **T**he **V**ote_ - Is a set of tools designed to increase citizen participation in Nigeria's Electoral Process by enabling independent education, galvanizing and collaboration between groups.
 
 
 ### Goals
 
-GOTV's primary goal is to build a set of tools that will enable as many Nigerians get involved in her political process as is technically possible.
-It aims to enable new groups of political players coordinate their election related ground activities at very low cost.
+GOTV's primary goal is to build a set of tools that will enable, as many Nigerians get involved in her political process as is technically possible.
+It aims to enable new groups of political players:
+1. Build an on the ground and online volunteer force with a working reward system.
+2. Coordinate their election related ground activities at very low cost.
 
 
-These tools will be designed and built around activities such as: 
 
-+ Voter registeration 
+### Requirements
+
+To achieve the above stated goals, the proposed tools will be designed and built to meet the needs around activities listed below
+
++ Voter registration 
 + Acquisition of voters cards 
 + Issue reporting with evidence gathering coupled with easy ways to share issues with the appropriate Government agency. 
-+ Follow up features for reoprted issues.
++ Follow up features for reported issues.
 + Getting out to vote
 + Independent reporting
 + Result tallying
@@ -23,7 +29,7 @@ These tools will be designed and built around activities such as:
 + Inform others(other voters not online)
 + Nationwide polling unit verification.
 + Verify eligibility to run for office.
-+ Gameification and reward for participation on different levels.
++ Gamification and reward for participation on different levels.
 
 
 
@@ -64,7 +70,7 @@ A mobile app that encourages people to:
 
 
 ## How to contribute
-GOTVote flourishes only through the power of contributors. To this end we welcome contributions in any form that is useful. 
+GOTV flourishes only through the power of contributors. To this end we welcome contributions in any form that is useful. 
 Especially your time as an experienced professional.
 
 The following contributors are needed at this time.

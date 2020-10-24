@@ -78,7 +78,7 @@ The following contributors are needed at this time.
 You leave a comment by making an issue request.
 
 Send an email to: 
-11710711997109101@protonmail.com 
+gotvote@protonmail.com 
 
 With the subject line: "GOTVote volunteer request".
 

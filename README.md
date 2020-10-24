@@ -40,15 +40,27 @@ To achieve the above stated goals, the proposed tools will be designed and built
 
 #### Phase One
 
-A site to give accurate information on electoral processes and anything related to it in Nigeria.
-Signing up of volunteers to maintain and vet the information loaded in.
-An efficient search mechanism for searching.
-Stage by stage Artwork/Visual Illustration to draw awareness from social platforms.
+###### Initial user data gather and voluteer sourcing
 
-- Inform people on how to run for electoral offices what it takes and what offices there are.
-- Put people through test (Quiz) of qualification for the various electoral offices.
-- Inform them on what they're lacking and what they need to make up the difference.
-- Encourage them to run for electoral offices.
+1. A duolingo style app(web & Mobile) that scores participants on series of tailored questions.
+   + Scores are tallied based on activity and correct participation in tests like stackOverflow
+   + Scores can be converted to real life rewards like airtime credits.
+   + Scores are earned on referrals.
+   + Signup incorporated social media Open Authentication(OAuth) credentials and activities are used to determine scoring.
+
+2. Volunteers are solicited from among participants as well as from other idependent channels.
+   + Legal
+   + Graphic Artists and Illustrators
+   + Programmers
+   + Community organizers
+   
+
+3. More Quizes are developed with the asistance of contributors to cover the following goals.
+   + Inform people on how to run for electoral offices what it takes and what offices there are.
+   + Verification of qualification for the various electoral offices.
+   + Inform them on what they're lacking and what they need to make up the difference.
+   + Encourage them to run for electoral offices.
+
 
 
 #### Phase Two

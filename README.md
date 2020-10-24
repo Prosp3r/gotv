@@ -84,4 +84,6 @@ With the subject line: "GOTVote volunteer request".
 Include your social (twitter) handles and area of interest.
 
 
-###### This is a Proposal and a call for contributors & collaborators. it is a growing document and will be updated frequently
+###### This is a Proposal and a call for contributors & collaborators. 
+
+**_A growing document. It will be updated frequently_**

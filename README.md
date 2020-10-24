@@ -24,11 +24,11 @@ These tools will be designed and built around activities such as:
 
 Some important aspect of the features will be the social nature coupled with **gamificaion** aimed at driving adoption and sticky usage.
 
----
 
-## ROAD MAP
 
-## Phase One
+### ROAD MAP
+
+#### Phase One
 
 A site to give accurate information on electoral processes and anything related to it in Nigeria.
 Signing up of volunteers to maintain and vet the information loaded in.

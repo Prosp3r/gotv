@@ -22,7 +22,7 @@ These tools will be designed and built around activities such as:
 + Verify eligibility to run for office.
 
 
-Some of the most important features will be the social nature coupled with **gamificaion** of features aimed at driving adoption and dedicated usage.
+Some important aspect of the features will be the social nature coupled with **gamificaion** aimed at driving adoption and sticky usage.
 
 ---
 

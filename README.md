@@ -40,7 +40,8 @@ To achieve the above stated goals, the proposed tools will be designed and built
 
 #### Phase One
 
-###### Initial user data gather and voluteer sourcing campaign.(Estimated development & first 1,000 user acquisition period is 6 months)
+###### Initial user data gathering and voluteer sourcing campaign. 
+###### (The estimated time for developing tools, and reaching the first 1,000 users is 6 months)
 
 1. A [duolingo](https://www.duolingo.com/) style app(web & Mobile) that scores participants on series of tailored questions.
    + Scores are tallied based on activity and correct participation in tests like stackOverflow

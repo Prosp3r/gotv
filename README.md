@@ -86,8 +86,8 @@ However these tools can be combined with some customized tools to increase the v
 
 If you know of a group that may need custom tools or just think we should take a look at what they're doing to see how we can help.
 Please send us an email or shoot a DM 
-#### 1. Send an email to:  gotvote@protonmail.com 
-#### 2. Send a direct message to me on [Twitter @prosp3ring] https://twitter.com/prosp3ring
+##### 1. Send an email to:  gotvote@protonmail.com 
+##### 2. Send a direct message to me on [Twitter @prosp3ring] https://twitter.com/prosp3ring
 
 ###### (The time for developing tools in this phase has not yet been estimated)
 
@@ -97,8 +97,8 @@ Please send us an email or shoot a DM
 The GOTV projects will only succeed through collective efforts from contributors online and offline. 
 To this end we welcome contributions in any form that is useful.
 
-#### 1. Send an email to:  gotvote@protonmail.com 
-#### 2. Send a direct message to me on [Twitter @prosp3ring] https://twitter.com/prosp3ring
+##### 1. Send an email to:  gotvote@protonmail.com 
+##### 2. Send a direct message to me on [Twitter @prosp3ring] https://twitter.com/prosp3ring
 
 We'll get in touch.
 

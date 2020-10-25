@@ -42,11 +42,11 @@ To achieve the above stated goals, the proposed tools will be designed and built
 
 ###### Initial user data gathering and voluteer sourcing campaign. 
 
-1. A [duolingo](https://www.duolingo.com/) style app(web & Mobile) that scores participants on series of tailored questions.
+1. A [duo lingo](https://www.duolingo.com/) style app(web & Mobile) that scores participants on series of tailored questions.
    + Scores are tallied based on activity and correct participation in tests like stackOverflow
    + Scores can be converted to real life rewards like airtime credits.
    + Scores are earned on referrals.
-   + Signup incorporated social media Open Authentication(OAuth) credentials and activities are used to determine scoring.
+   + Signup incorporated social media Open Authentication (OAuth) credentials and activities are used to determine scoring.
 
 2. Volunteers are solicited from among participants as well as from other independent channels.
    + Legal
@@ -74,7 +74,7 @@ A tool that enable's the following
 5. Get them out to vote in teams.
 6. Get them to publish the results.
 7. Get them to secure the votes and report anomalies.
-
+###### (The time for developing tools in this phase has not yet been estimated)
 
 #### Auxilliary Phase
 
@@ -89,6 +89,7 @@ Please send us an email or shoot a DM
 #### 1. Send an email to:  gotvote@protonmail.com 
 #### 2. Send a direct message to me on [Twitter @prosp3ring] https://twitter.com/prosp3ring
 
+###### (The time for developing tools in this phase has not yet been estimated)
 
 
 

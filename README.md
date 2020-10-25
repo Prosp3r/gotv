@@ -48,14 +48,13 @@ To achieve the above stated goals, the proposed tools will be designed and built
    + Scores are earned on referrals.
    + Signup incorporated social media Open Authentication(OAuth) credentials and activities are used to determine scoring.
 
-2. Volunteers are solicited from among participants as well as from other idependent channels.
+2. Volunteers are solicited from among participants as well as from other independent channels.
    + Legal
    + Graphic Artists and Illustrators
    + Programmers
    + Community organizers
    
-
-3. More Quizes are developed with the asistance of contributors to cover the following goals.
+3. More Quizzes are developed with the asistance of contributors to address the following goals.
    + Inform people on how to run for electoral offices what it takes and what offices there are.
    + Verification of qualification for the various electoral offices.
    + Inform them on what they're lacking and what they need to make up the difference.
@@ -66,20 +65,30 @@ To achieve the above stated goals, the proposed tools will be designed and built
 
 #### Phase Two
 
-A portal that enable's the following
+A tool that enable's the following
 
-1. Encourage people to signup.
-2. Get them to add their contacts.
-3. Get them to partake in voter’s registration.
-4. Get them to inform their contacts.
-5. Get them to acquire their voters credentials (card).
+1. Get them to partake in voters' registration.
+2. Get them to inform their contacts.
+3. Get them to acquire their voter credentials (card) and be ready to vote.
+4. Enable people pass the message around and assist people in getting theirs.
+5. Get them out to vote in teams.
+6. Get them to publish the results.
+7. Get them to secure the votes and report anomalies.
 
 
-#### Phase Three
-A mobile app that encourages people to:
-6. Get them out to vote in teams.
-7. Get them to publish the results.
-8. Get them to secure the votes and report anomalies.
+#### Auxilliary Phase
+
+This is a phase that will run concurrently with the phases one and two.
+Here we assist independent ground operatives in their operations by building tools that will aid them one way or the other.
+
+Mostly people on ground need simple tools like spreadsheets and google forms to do effective data gathering.
+However these tools can be combined with some customized tools to increase the visibility and enhance effectiveness of ground operations.
+
+If you know of a group that may need custom tools or just think we should take a look at what they're doing to see how we can help.
+Please send us an email or shoot a DM 
+#### 1. Send an email to:  gotvote@protonmail.com 
+#### 2. Send a direct message to me on [Twitter @prosp3ring] https://twitter.com/prosp3ring
+
 
 
 
@@ -90,7 +99,7 @@ To this end we welcome contributions in any form that is useful.
 #### 1. Send an email to:  gotvote@protonmail.com 
 #### 2. Send a direct message to me on [Twitter @prosp3ring] https://twitter.com/prosp3ring
 
-I'll get in touch.
+We'll get in touch.
 
 
 The GOTV projects are new enough that a lot of its aspects are not thoroughly defined. So feel free to look around and see where you can best fit even if all you do is correcting typographical errors, it is a welcome contribution.

@@ -67,10 +67,10 @@ To achieve the above stated goals, the proposed tools will be designed and built
 
 A tool that enable's the following
 
-1. Get them to partake in voters' registration.
-2. Get them to inform their contacts.
-3. Get them to acquire their voter credentials (card) and be ready to vote.
-4. Enable people pass the message around and assist people in getting theirs.
+1. Get pepople to partake in voters' registration.
+2. Get pepople to inform their contacts.
+3. Get pepople to acquire their voter credentials (card) and be ready to vote.
+4. Enable people pass the message around and assist as many people as possible in getting ready for voting.
 5. Get them out to vote in teams.
 6. Get them to publish the results.
 7. Get them to secure the votes and report anomalies.

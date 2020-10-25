@@ -84,25 +84,27 @@ A mobile app that encourages people to:
 
 
 ## How to contribute
-GOTV flourishes only through the power of contributors. To this end we welcome contributions in any form that is useful. 
-Especially your time as an experienced professional.
+The GOTV projects will only succeed with a collective effort from parties online and offline and through the power of contributors. 
+To this end we welcome contributions in any form that is useful.
 
-The following contributors are needed at this time.
-1. Developers.
-2. Content providers and moderators in the form of:
-   - Non-Developers, Legal Experts, Nigerian Political experts.
-3. Social Media partners.
+#### 1. Send an email to:  gotvote@protonmail.com 
+#### 2. Send a direct message to me on [Twitter @prosp3ring] https://twitter.com/prosp3ring
 
+I'll get in touch.
 
 
-You leave a comment by making an issue request.
+The GOTV projects are new enough that a lot of its aspects are not thoroughly defined. So feel free to look around and see where you can best fit even if all you do is correcting typogrphical errors, it is a welcome contribution.
 
-Send an email to: 
-gotvote@protonmail.com 
+Contributors are needed at this time in the following areas.
 
-With the subject line: "GOTVote volunteer request".
+1. Graphic Designers/Illustrators.
+2. Content providers and moderators.
+3. Legal Experts 
+4. Expert in Nigerian Political space.
+5. Social Media partners.
 
-Include your social (twitter) handles and area of interest.
+###### NOTE: You do not have to be a Nigerian National to contribute your time.
+
 
 ###### This is a Proposal and a call for contributors. 
 

@@ -84,7 +84,7 @@ A mobile app that encourages people to:
 
 
 ## How to contribute
-The GOTV projects will only succeed with a collective effort from parties online and offline and through the power of contributors. 
+The GOTV projects will only succeed through collective efforts from contributors online and offline. 
 To this end we welcome contributions in any form that is useful.
 
 #### 1. Send an email to:  gotvote@protonmail.com 
@@ -93,9 +93,9 @@ To this end we welcome contributions in any form that is useful.
 I'll get in touch.
 
 
-The GOTV projects are new enough that a lot of its aspects are not thoroughly defined. So feel free to look around and see where you can best fit even if all you do is correcting typogrphical errors, it is a welcome contribution.
+The GOTV projects are new enough that a lot of its aspects are not thoroughly defined. So feel free to look around and see where you can best fit even if all you do is correcting typographical errors, it is a welcome contribution.
 
-Contributors are needed at this time in the following areas.
+In the coming weeks, contributors may be needed in the following areas.
 
 1. Graphic Designers/Illustrators.
 2. Content providers and moderators.
